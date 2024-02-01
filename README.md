@@ -1,1 +1,8 @@
-# crop-recommendation model predicts the amount of chemicals needed for the crop growth
+
+
+## Getting Started
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/akshayapathivada/crop-recommendation
